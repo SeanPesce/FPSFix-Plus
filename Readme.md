@@ -19,7 +19,6 @@ The new bonfire input fix, or FPSFix+, has a few improvements over the original 
 To install the fix, [download one of the two builds](https://github.com/SeanPesce/FPSFix-Plus/releases), extract the DLL and configuration file, and copy them into your Dark Souls directory (the default game directory is `C:\Program Files (x86)\Steam\steamapps\common\Dark Souls Prepare to Die Edition\DATA`). To load additional library wrappers through FPSFix+, enter the name of the chained DLL in the `DllChain=` entry in `FIPSFix.ini`. The fix is only compatible with the latest Steamworks version of Dark Souls. **NOTE:** To chain a `d3d9.dll` wrapper, you must use the **d3d9** build of FPSFix+, and to chain a `dinput8.dll` wrapper, you must use the **dinput8** build. If you're already using a wrapper for that library, you can rename FPSFix+ and load it through the config file of the other wrapper DLL. To load FPSFix+ from the most common library-wrapper mods for Dark Souls:   
 
 * **[DSFix](https://github.com/PeterTh/dsfix)** by Durante: Download the **dinput8** build of FPSFix+, rename the DLL to something like `FPSFix.dll`, and add it to `DSFix.ini` (the edited line would read `dinput8dllWrapper FPSFix.dll`).  
-
 * **[PvP Watchdog](https://www.nexusmods.com/darksouls/mods/849/)** by eur0pa: Download the **d3d9** build of FPSFix+, rename the DLL, and add it to `DSPWSteam.ini` (the edited line would read `d3d9dllWrapper FPSFix.dll`).  
 
 To uninstall the fix, simply remove the edited lines from the DSFix/PvP Watchdog config file, or delete the FPSFix+ files from the Dark Souls DATA folder (depending on your installation method).  
@@ -34,4 +33,14 @@ To compile, simply open Visual Studio, choose your build configuration (**d3d9**
 * **Youri "NullBy7e" de Mooij** ([GitHub](https://github.com/nullby7e)) for finding the pointer needed to fix the bug when he made the [original Bonfire FPSFix](https://github.com/NullBy7e/FPSFix)  
 * **Lin "mavenlin" Min** ([GitHub](https://github.com/mavenlin)) for his [DLL Wrapper Generator](https://github.com/mavenlin/Dll_Wrapper_Gen), which I forked a while back to modify and use for my own projects  
 
+
+## Contact  
+
+If you have any questions/comments/concerns/suggestions, you can contact me on social media:  
+
+* **[GitHub](https://github.com/SeanPesce)**  
+* **[Reddit](https://reddit.com/u/SeanPesce/)**  
+* **[Twitter](https://twitter.com/SeanPesce)**  
+* **[YouTube](https://youtube.com/channel/UCgsMpXiR3PawqKM7MWLJGzQ)**  
+* **[Discord](https://discordapp.com):** @SeanP#5604  
 

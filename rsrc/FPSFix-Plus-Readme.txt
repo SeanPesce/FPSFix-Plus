@@ -57,6 +57,16 @@ CREDITS:
 
 
 
+CONTACT:
+If you have any questions/comments/concerns/suggestions, you can contact me on social media:
+	-GitHub: https://github.com/SeanPesce
+	-Reddit: https://reddit.com/u/SeanPesce/
+	-Twitter: https://twitter.com/SeanPesce
+	-YouTube: https://youtube.com/channel/UCgsMpXiR3PawqKM7MWLJGzQ
+	-Discord: @SeanP#5604
+
+
+
 
 
 
