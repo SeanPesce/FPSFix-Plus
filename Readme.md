@@ -4,7 +4,7 @@
 
 
 ## Background  
-This is a recreation of Nullby7e's [Bonfire FPSFix](https://github.com/NullBy7e/FPSFix), which was a solution to the bonfire input bug in Dark Souls. Basically, if a player used the "Reverse hollowing" option at a bonfire with the framerate unlocked, there was a significant chance that their character could get stuck when attempting to leave the bonfire (the bonfire menu would disappear, but the player character would remain sitting at the bonfire, with no way to get up). When this happened, the only way to remedy the issue was to restart the game. Luckily, the original FPSFix implemented a re-bindable hotkey that the player could press to escape the bonfire if they encountered this annoying bug.  
+This is a re-creation (from scratch) of Nullby7e's [Bonfire FPSFix](https://github.com/NullBy7e/FPSFix), which was a solution to the bonfire input bug in Dark Souls. Basically, if a player used the "Reverse hollowing" option at a bonfire with the framerate unlocked, there was a significant chance that their character could get stuck when attempting to leave the bonfire (the bonfire menu would disappear, but the player character would remain sitting at the bonfire, with no way to get up). When this happened, the only way to remedy the issue was to restart the game. Luckily, the original FPSFix implemented a re-bindable hotkey that the player could press to escape the bonfire if they encountered this annoying bug.  
 
 
 ## Improvements  
