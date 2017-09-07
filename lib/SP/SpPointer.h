@@ -26,9 +26,7 @@ public:
 
 
 	// Constructors/destructors
-	SpPointer();
-	SpPointer(void *starting_address, std::vector<long> new_offsets);
-	SpPointer(void *starting_address);
+	SpPointer(void *starting_address = NULL, std::vector<long> new_offsets = {});
 	~SpPointer();
 	
 
