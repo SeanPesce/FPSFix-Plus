@@ -8,13 +8,19 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		d3d9|Win32 = d3d9|Win32
+		d3dx9_43|Win32 = d3dx9_43|Win32
 		dinput8|Win32 = dinput8|Win32
+		winmm|Win32 = winmm|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.d3d9|Win32.ActiveCfg = d3d9|Win32
 		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.d3d9|Win32.Build.0 = d3d9|Win32
+		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.d3dx9_43|Win32.ActiveCfg = d3dx9_43|Win32
+		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.d3dx9_43|Win32.Build.0 = d3dx9_43|Win32
 		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.dinput8|Win32.ActiveCfg = dinput8|Win32
 		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.dinput8|Win32.Build.0 = dinput8|Win32
+		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.winmm|Win32.ActiveCfg = winmm|Win32
+		{07EA7E7D-C20E-4066-9AD1-091614D1BCBC}.winmm|Win32.Build.0 = winmm|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

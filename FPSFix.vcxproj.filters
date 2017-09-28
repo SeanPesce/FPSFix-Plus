@@ -20,11 +20,34 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="d3d9Exports.def">
-      <Filter>Source Files</Filter>
-    </None>
     <None Include="dinput8Exports.def">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="d3d9Exports.def">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="d3dx9_43Exports.def">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="winmmExports.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="d3dx9_43.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dinput8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FPSFix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="winmm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
