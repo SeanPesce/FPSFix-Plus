@@ -1,6 +1,7 @@
 # Bonfire Input Fix (FPSFix+)  
 **For Dark Souls: Prepare to Die Edition**  
 **Author: Sean Pesce**  
+[Dark Souls Nexus page](https://www.nexusmods.com/darksouls/mods/1343/)  
 
 
 ## Background  
@@ -57,3 +58,7 @@ If you have any questions/comments/concerns/suggestions, you can contact me on s
 * **[YouTube](https://youtube.com/channel/UCgsMpXiR3PawqKM7MWLJGzQ)**  
 * **[Discord](https://discordapp.com):** @SeanP#5604  
 
+## Media  
+
+[!image](https://staticdelivery.nexusmods.com/mods/162/images/1343-0-1506614671.jpg)  
+<sup>Player stuck at the bonfire after restoring humanity (Note that the bonfire menu is missing)</sup>  
