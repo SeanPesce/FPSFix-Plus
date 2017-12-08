@@ -60,5 +60,5 @@ If you have any questions/comments/concerns/suggestions, you can contact me on s
 
 ## Media  
 
-[!image](https://staticdelivery.nexusmods.com/mods/162/images/1343-0-1506614671.jpg)  
+![image](https://staticdelivery.nexusmods.com/mods/162/images/1343-0-1506614671.jpg)  
 <sup>Player stuck at the bonfire after restoring humanity (Note that the bonfire menu is missing)</sup>  
