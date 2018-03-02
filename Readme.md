@@ -67,4 +67,4 @@ If you have any questions/comments/concerns/suggestions, you can visit **[my web
 
 
 ## License  
-[Apache License 2.0](LICENSE)  
+[GNU General Public License v3.0](LICENSE)  
